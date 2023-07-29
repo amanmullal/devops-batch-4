@@ -5,3 +5,6 @@ git clone
 git remote/v
 git branch 
 git checkout
+git pull
+git push
+
