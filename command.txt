@@ -3,3 +3,5 @@ git status
 git add
 git clone
 git remote/v
+git branch 
+git checkout
