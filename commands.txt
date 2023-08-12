@@ -2,5 +2,5 @@ git init
 git add
 git status
 git log
-
+git add2
 
